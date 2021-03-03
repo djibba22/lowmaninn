@@ -1,11 +1,11 @@
 {
-    "title": "Business Casual",
-    "name": "startbootstrap-business-casual",
+    "title": "Lowman Inn",
+    "name": "lowman-inn",
     "version": "5.0.9",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A casual HTML website theme for businesses built with Bootstrap",
+    "description": "A website for the resort in idaho",
     "keywords": [
         "css",
         "sass",
@@ -30,7 +30,6 @@
     },
     "dependencies": {
         "bootstrap": "4.3.1",
-        "jquery": "3.4.1",
         "browser-sync": "2.26.7",
         "del": "5.1.0",
         "gulp": "4.0.2",
@@ -40,6 +39,7 @@
         "gulp-plumber": "^1.2.1",
         "gulp-rename": "1.4.0",
         "gulp-sass": "4.0.2",
+        "jquery": "3.4.1",
         "merge-stream": "2.0.0"
     },
     "devDependencies": {
